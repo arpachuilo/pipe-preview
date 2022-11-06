@@ -13,7 +13,7 @@ Upon exit, stderr and stdout from most recent execution are flushed back out to 
 ### Via `go install`
 
 ```bash
-go install github.com/arpachuilo/pipe-preview
+go install github.com/arpachuilo/pipe-preview@latest
 ```
 
 ## Keybinds
