@@ -54,7 +54,7 @@ Enter
 
 Sleep 500ms
 
-Type@2s "jq . | grep -e generation-viii"
+Type@500ms "jq . | grep -e generation-viii"
 
 Sleep 5s
 
