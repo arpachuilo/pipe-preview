@@ -17,7 +17,8 @@ go install github.com/arpachuilo/pipe-preview
 ```
 
 ## Keybinds
-		- `tab`: swap between and input and preview
-		- `ctrl+p`: copy input to clipboard
-		- `ctrl+o`: copy preview to clipboard
-		- `esc` / `ctrl+q` / `ctrl+c`: exit
+
+- `tab` swap between and input and preview
+- `ctrl+p` copy input to clipboard
+- `ctrl+o` copy preview to clipboard
+- `esc` / `ctrl+q` / `ctrl+c` exit
