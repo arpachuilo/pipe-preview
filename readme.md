@@ -6,6 +6,8 @@ Expects a `SHELL` variable in your environment, will default to `bash` if not se
 
 Upon exit, stderr and stdout from most recent execution are flushed back out to your terminal.
 
+![pipe preview](https://github.com/arpachuilo/pipe-preview/blob/main/demo.gif?raw=true)
+
 ## Installation
 
 ### Via `go install`
